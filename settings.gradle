@@ -1,0 +1,1 @@
+include ':app', ':vasdolly_demo', ':walle_demo'
